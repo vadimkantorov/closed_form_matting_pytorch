@@ -4,3 +4,8 @@
 - https://github.com/pymatting/pymatting
 - http://people.csail.mit.edu/alevin/papers/Matting-Levin-Lischinski-Weiss-PAMI.pdf
 - http://people.csail.mit.edu/alevin/papers/spectral-matting-levin-etal-pami08.pdf
+- https://blog.flaport.net/solving-sparse-linear-systems-in-pytorch.html
+- https://github.com/scikit-learn/scikit-learn/blob/7f9bad99d6e0a3e8ddf92a7e5561245224dab102/sklearn/manifold/_spectral_embedding.py#L346
+- https://github.com/pyamg/pyamg-examples/blob/main/readme.md
+- https://man7.org/linux/man-pages/man5/ltrace.conf.5.html
+- https://github.com/gnu-octave/octave/blob/default/liboctave/numeric/lo-arpack-proto.h#L4
