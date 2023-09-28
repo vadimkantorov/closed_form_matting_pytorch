@@ -1,6 +1,3 @@
-# https://github.com/MarcoForte/closed-form-matting/blob/master/closed_form_matting/closed_form_matting.py
-# https://github.com/vadimkantorov/fastcontextlocnet/blob/fcn/spectral.py
-
 import torch
 import scipy.sparse.linalg
 
