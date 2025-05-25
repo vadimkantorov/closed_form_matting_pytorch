@@ -1,5 +1,6 @@
 ### References
 - https://github.com/MarcoForte/closed-form-matting/blob/master/closed_form_matting/closed_form_matting.py
+- https://github.com/NVIDIA/FastPhotoStyle/blob/master/photo_smooth.py
 - https://github.com/vadimkantorov/fastcontextlocnet/blob/fcn/spectral.py
 - https://github.com/pymatting/pymatting
 - http://people.csail.mit.edu/alevin/papers/Matting-Levin-Lischinski-Weiss-PAMI.pdf
